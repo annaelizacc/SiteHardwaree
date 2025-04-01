@@ -10,3 +10,22 @@ td{ width: 6%;}
 #linha1{height: 75px;
     background-image: linear-gradient(#537CD5 , #9B66C4);
 }
+
+.degrade {
+background-image: linear-gradient(#537CD5 , #9B66C4);    
+width: 100%;
+height:30vh;
+border-radius: 40px;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+a {
+    color: linear-gradient(#537CD5 , #9B66C4); 
+    text-decoration: none;
+}
+
+input { border-radius: 50px;
+width: 100%;}
